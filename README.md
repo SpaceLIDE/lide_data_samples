@@ -1,10 +1,12 @@
-# lide_data_samples
-Samples of recordings and code for data analysis - glider's 0g flight capabilities
+# LIDE data samples
 
-1-Analysis of trajectory and acceleration
+Samples of data recorded during LIDE parabolic flights with gliders. See information published in
+* Denis-Gabriel Caprace, Camille Gontier, Mohammad Iranmanesh, Mehdi Scoubeau, Vladimir Pletser, "Experimental characterization ofweightlessness during glider parabolic flights", submitted to Microgravity Science and Technology, Elsevier, 2020.
 
-The file "example_data_aircraft.csv" contains recordings obtained during an aircraft flight. It includes time, GPS position, velocities, and accelerations. The file main.py plots the trajectory of the aircraft, its altitude compared with acceleration, and the proper accelerations on each axis.
+## Authors
 
-2-Analysis of jitter
+Denis-Gabriel Caprace, Camille Gontier, Mohammad Iranmanesh, Mehdi Scoubeau
 
-The files "example_jitter_glider.csv" and "example_jitter_aircraft.csv" contain samples of data recorded during cruise conditions. Running the file jitter_analysis_main.py allows to study the jitter and level of vibration for these files.
+## License
+
+These data are made abailable through a [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
