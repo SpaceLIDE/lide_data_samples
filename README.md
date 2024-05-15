@@ -1,7 +1,6 @@
 # LIDE data samples
 
-Samples of data recorded during LIDE parabolic flights with gliders. See information published in
-* Denis-Gabriel Caprace, Camille Gontier, Mohammad Iranmanesh, Mehdi Scoubeau, Vladimir Pletser, "Experimental characterization ofweightlessness during glider parabolic flights", submitted to Microgravity Science and Technology, Elsevier, 2020.
+Samples of data recorded during LIDE parabolic flights with gliders. See information published in [Caprace, D. G., Gontier, C., Iranmanesh, M., Scoubeau, M., & Pletser, V. (2020). Experimental Characterization of Weightlessness During Glider Parabolic Flights. Microgravity Science and Technology, 32(6), 1121-1132.](https://link.springer.com/article/10.1007/s12217-020-09836-6)
 
 ## Authors
 
