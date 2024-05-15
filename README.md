@@ -9,6 +9,7 @@ Denis-Gabriel Caprace, Camille Gontier, Mohammad Iranmanesh, Mehdi Scoubeau
 
 ## Cite us
 
+```
 @article{caprace2020experimental,
   title={Experimental Characterization of Weightlessness During Glider Parabolic Flights},
   author={Caprace, Denis-Gabriel and Gontier, Camille and Iranmanesh, Mohammad and Scoubeau, Mehdi and Pletser, Vladimir},
@@ -19,6 +20,7 @@ Denis-Gabriel Caprace, Camille Gontier, Mohammad Iranmanesh, Mehdi Scoubeau
   year={2020},
   publisher={Springer}
 }
+```
 
 ## License
 
